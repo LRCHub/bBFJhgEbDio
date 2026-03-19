@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "WARUIYUME",
+  "base_artist": "kiki vivi lily",
+  "createdAt": "2026-03-19T14:06:24.908741Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WARUIYUME",
+      "artist": "kiki vivi lily",
+      "has_synced": false,
+      "path": "select/pl_01_WARUIYUME_kiki_vivi_lily.txt"
+    }
+  ]
+}
